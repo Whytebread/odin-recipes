@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Chicken Parmesan</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<body>
+    <h1>Chicken Parmesan</h1>
+
+    <a href="../index.html">Home</a><br>
+
+    <img src="/home/whytebread/repos/odin-recipes/assets/chickenparm.jpg" alt="chicken parmesan" width="300px"
+        height="300px"><img />
+
+    <h3>Description:</h3>
+
+    <p>Chicken Parmesan is no doubt the most popular non-pasta dish in Italian-American style restaurants. And while
+        this delicious meal may seem fancy, it's actually pretty easy to make at home.</p>
+
+    <h4>Ingredients:</h4>
+
+    <ul>
+        <li>2 large boneless, skinless chicken breasts</li>
+        <li>salt and freshly ground black pepper to taste</li>
+        <li>1/2 cup flour</li>
+        <li>1 beaten egg</li>
+        <li>3/4 cup plain bread crumbs</li>
+        <li>olive oil for frying</li>
+        <li>1/2 cup ricotta cheese</li>
+        <li>1/2 cup shredded sharp white cheddar</li>
+        <li>salt and freshly ground black pepper to taste</li>
+        <li>pinch of cayenne</li>
+        <li>1/2 teaspoon olive oil</li>
+        <li>2 tablespoons Parmigiano-Reggiano for the top</li>
+    </ul>
+
+    <h4>Directions:</h4>
+        <ol>
+            <li>Gather the ingredients. Preheat an oven to 450 degrees F (230 degrees C). </li>
+            <li>Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch. </li>
+            <li>Season chicken thoroughly with salt and pepper. Using a sifter or strainer; sprinkle flour over chicken breasts, evenly coating both sides </li>
+            <li>Beat eggs in a shallow bowl and set aside. Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside. Dip a flour-coated chicken breast in beaten eggs. Transfer breast to the bread crumb mixture, pressing crumbs into both sides. Repeat for each breast. Let chicken rest for 10 to 15 minutes. </li>
+            <li>Heat 1/2 inch olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken in the hot oil until golden, about 2 minutes per side. The chicken will finish cooking in the oven. </li>
+            <li>Transfer chicken to a baking dish. Top each breast with 2 tablespoons tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle remaining Parmesan over top and drizzle each with 1/2 teaspoon olive oil. </li>
+            <li>Bake in the preheated oven until cheese is browned and bubbly and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).</li>
+            
+        </ol>
